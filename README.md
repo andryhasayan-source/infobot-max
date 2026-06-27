@@ -124,7 +124,7 @@ zip -r ../max_bot.zip . -x "*.pyc" -x "__pycache__/*"
 - 🌐 [shashevpro.ru](https://www.shashevpro.ru)
 - 🛒 [kwork.ru/user/shashevpro](https://kwork.ru/user/shashevpro)
 - ✉️ programmer@shashevpro.ru
-- 💬 [vk.com/andrey_shashev](https://vk.com/andrey_shashev)
+- 💬 [vk.com/shashevpro](https://vk.com/shashevpro)
 
 ---
 
